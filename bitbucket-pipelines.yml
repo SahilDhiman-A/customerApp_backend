@@ -1,0 +1,22 @@
+#  Template NodeJS build
+
+#  This template allows you to validate your NodeJS code.
+#  The workflow allows running tests and code linting on the default branch.
+
+image: node:14.17.0
+
+pipelines:
+  branches:
+    master:
+      - step:
+          trigger: automatic
+          caches:
+            - node
+          script: # Modify the commands below to build your repository.
+          - npm install
+          - npm install -g sonarqube-scanner
+          - sonar-scanner
+            -Dsonar.projectKey=Spectra_Backend-master
+            -Dsonar.sources=. 
+            -Dsonar.host.url=https://sonarqube.affle.com
+            -Dsonar.login=6ef0b6a9b7440a3c97eae7f6fd6a80c2671543fc

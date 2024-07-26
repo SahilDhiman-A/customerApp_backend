@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "affle-projects",
+  "private_key_id": "c657a0711edd4b0914255126d7659c001ed399ca",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCxyF5cYdiXulcQ\nz3dWYewVqiiCxLacT1X9UlO9/tRmBUFas6tN27VLoThjLzwsqMEkMhOYOGzr6NTH\n26s77uMTffdvbTyyWhgsPTxpNuHj38amvbDBqx/5caxfYGYi9yuq99r9vIicDb1e\nKBVVHr8q44AX+c1xqX6Cr37fptKBskRD8wxRVDWaJ6p+KmUBZ0ILs8VxwmRLi+3T\njybvmdsshP4nkRtd7uBIbCsBOhofSlnZjSPwBFS/r2R7IAqullfQOh7UJuh8YWPQ\nWfZn0+d86tpfKzebd6yZzG4PY5TRfQqH02YUyc7xjPn+YB478t5HcUbwW0YnfRL4\nhUiY2iBdAgMBAAECggEAIH7aWJJ974Xc4jK5wm1VpMQccYKZSkrqEcqZifHpStiN\nEJIkrq+JHNDUKLT6j8MswnvwvvMZXamKMxnA28yXbvmoX5Kc9JCpOHTc9PJWKbu+\naL3lcBDiYErZ0fkh0iRRtAdn3Nc4NSYBxhMXix56nNFGmZtMZQkxGZwQWbr5YUEw\nmOix+Nl1h2j9xIfuPuXBJ+eCre25AGRv4qGoEzGiurTw9GzOEIeRmn4YdVNEj0Uz\nUuCWNABXjs1ouHnmISDDlYMuY1vp4vlzT/+tZFxVLanzrcrqbwWoI2/6zgLjbJjg\nnuy17XIIC3CfI+q2pe225b9mMNSAKYhJhmg3+PVYQQKBgQD11EkTEiSyPjR2lkIn\nq1OY6qR0rJML/souDZN4qfNijU6dx/fCiCvldMr6v3J+4qyoJCyQ8e8blPj402f+\nSZIPBd5zzaqQgPlUv5Ku4vsjJautVYPykOBvftDOM/2P7Qo/SxRUd+TBCT73jvE3\nee8y1ZnCnywAJHd3iGHikFJOEQKBgQC5I1073n7E4ne4B6uoiRa3LU/4iuCCgSt8\nTfQZtLhcMQguH33wdAUOJP6UZCZS7ZeXP/fmDEhk7ldJyPVkDoga7EdIUuEv2aem\n6pbS1XwBp0x7ibGxmyP2Jw4KdFWC+CVSAV8TGwEahwhDsKNwoMvlVACB2sap9kZ8\nzIeIoPYRjQKBgQDAuAX5r3WZTu7uMOn4E3ZcIUeAOHKnKr3x0K7WH9YwYrtJMqVn\nmj1fi2o9nazzEF1vC7zsfN6I7wcoewPB9IdOw7kbbBbVZmcRK4ahGEztxvCJ2Mqy\ndSWeAvtLTLLyDFDGQePUPJHXS5pTlXpBlZQSdCYwz3w9OFl4GjEy3xXHIQKBgHoJ\nlauhPm8J2WC1rbGqrA6TD+QFp3hfLQsDV6SaO+yJZZsBp0KZN7vbJvUqDxkbBJHu\n2LoL3qypb2Bz103dRlp45YQHHeks0BZ3DHRtxRBR91h3q2onmczocZjylmt+pxsn\nTESLyG50FD6KcTIMzFqexLbUP6BJdq1NJQorEAkBAoGAbVfOmN4cb4sTwpiOVquu\nH4mt+CrNErgZBfEd0wdiEKRpfZ/n6a8+paZgt5TWOPo5Cds+BKiJsA/e7DJ54DvQ\nBHEszSGpqjp5nq4ewG9haqOHpIhkA31luiGguSAMZj7fP9IH/uYlRZmTVfFXejCW\nZcpcjRAxNnA8WkuRkWci/L0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "digitalmallofasia@affle-projects.iam.gserviceaccount.com",
+  "client_id": "105263192074583138746",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/digitalmallofasia%40affle-projects.iam.gserviceaccount.com"
+}

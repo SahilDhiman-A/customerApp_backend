@@ -1,0 +1,109 @@
+LICENSE
+---------
+Copyright Affle India Pvt Ltd
+Copyright (c) 2016 - Affle India Pvt Ltd, all rights reserved
+
+SOFTWARE LICENSE AGREEMENT FOR Affle Base Node Startup AND ALL 
+DERIVATIVE WORKS INCLUDING ALONGSIDE PROVIDED APPLICATION TEMPLATES, CODE SAMPLES AND DOCUMENTATION
+
+IMPORTANT - READ CAREFULLY: This Affle India Pvt Ltd Software License Agreement ("SLA") is a legal 
+agreement between you (an individual developer or a company of software applications) and Affle India Pvt Ltd 
+for the Affle source code accompanying this SLA, which includes all associated source 
+code, media and "on-line" or electronic documentation ("SOFTWARE LIBRARY"). By cloning, copying, or 
+otherwise using the SOFTWARE LIBRARY, you agree to be bound by the terms of this SLA. If you do not 
+agree to the terms of this SLA, do not install, use, distribute in any manner, or replicate in any 
+manner, any part, file or portion of the SOFTWARE LIBRARY
+
+The SOFTWARE LIBRARY is protected by copyright laws and international copyright treaties, as well 
+as other intellectual property laws and treaties. The SOFTWARE LIBRARY is licensed, not sold.
+
+1. RIGOROUS ENFORCEMENT OF INTELLECTUAL PROPERTY RIGHTS. If the licensed right of use for this 
+	SOFTWARE LIBRARY by you with any intent to create derivative works, and the exploitation or 
+	unauthorized transfer of, any Affle India Pvt Limited intellectual property and trade secrets, to 
+	include any exposed methods or source code where provided, no licensed right of use shall exist, 
+	and any products created as a result shall be judged illegal by definition of all applicable law. 
+	Any sale or resale of intellectual property or created derivatives so obtained will be prosecuted 
+	to the fullest extent of law.
+
+2. GRANT OF LICENSE. This SLA, if legally executed as defined herein, licenses and so grants you the 
+following rights:
+
+	A. Affle India Limited shall retain all right, title and interest in and to all updates, 
+	modifications, enhancements and derivative works, in whole or in part, of the Affle India Limited
+	Source Code created by you, including all copyrights subsisting therein, to the extent such 
+	modifications, enhancements or derivative works contain copyrightable code or expression derived 
+	from the Affle India Limited source code; provided, however, that Affle India Limited grants 
+	to you a fully-paid, royalty free license, to use copy and modify such updates, modifications,
+	enhancements and derivative works or copies thereof for use as authorized in this LICENSE.
+	
+	B. You may not distribute the Affle India Limited source code, or any modified version or 
+	derivative work of the Affle India Limited source code, in source code form.
+
+	C. Affle India Limited require all developers in your project who plan to access Affle India
+	Limited source code signing on the source code license. As long as they signed, they become 
+	registered developers. An alternative to this is to let a delegate signs source code license as 
+	an organization. The delegate will be responsible for letting other developers who plan to access 
+	the source code reviewing this license agreement first before releasing them the access.
+
+	D. The source code contained herein and in related files is provided to the registered developer 
+	for the purposes of creating applications to be used only by Affle India Limited products. Under 
+	no circumstances may any portion of the source code be distributed, disclosed or otherwise made 
+	available to any third party without the express written consent of Affle India Limited.
+
+	E. The registered developer acknowledges that this source code contains valuable and proprietary 
+	trade secrets of Affle India Limited. The registered developer agrees to expend every effort to 
+	insure its confidentiality. For example, under no circumstances may the registered developer allow 
+	to put the source code on an internal network where he or she has no control.
+
+
+	F. Due to the insecurity of Javascript/Ecmascript code, if you plan to use classes that built from 
+	the source code directly, you must agree to obfuscate the classes before publishing your app.
+
+	G. We can accept no responsibility whatsoever and will not be liable for any losses, claims or 
+	damages which may arise directly or indirectly by using this SOFTWARE LIBRARY.
+
+3. DESCRIPTION OF OTHER RIGHTS AND LIMITATIONS.
+
+	A. Not for Resale Software. The SOFTWARE LIBRARY is labeled and provided as "Not for Resale" or 
+	"NFR", then, notwithstanding other sections of this SLA, you may not resell, distribute, or 
+	otherwise transfer for value or benefit in any manner, the SOFTWARE LIBRARY or any derivative 
+	work using the SOFTWARE LIBRARY. You may not transfer, rent, lease, lend, copy, modify, translate, 
+	sublicense, time-share or electronically transmit the SOFTWARE LIBRARY, media or documentation. 
+	This also applies to any and all intermediate files, source code, and ofuscated code derived
+	from it.
+
+	B. Rental. You may not rent, lease, or lend the SOFTWARE LIBRARY.
+
+	C. Support Services. Affle India Limited reserves the right to support and provide training
+	for the use of the SOFTWARE LIBRARY. Affle India Limited also reserves the right to change the APIs
+	or structure of the SOFTWARE LIBRARY at any given time. Affle India Limited will not be held
+	responsible for breakage of functionality and subsequent losses arising out of such changes.
+
+	D. Termination. Without prejudice to any other rights or remedies, Affle India Limited will terminate 
+	this SLA upon your failure to comply with all the terms and conditions of this SLA. In such event, 
+	you must destroy all copies of the SOFTWARE LIBRARY and all of its component parts including any 
+	related documentation, and must remove ANY and ALL use of such technology with the next generally 
+	available release from any applications using technology contained in the SOFTWARE LIBRARY developed 
+	by you, whether in native, altered or obfuscated state.
+
+	E. Time Limitation: The use of this SOFTWARE LIBRARY is limited to the deployment of the final version
+	of the application it is being used for or as long as you don't violate this license agreement.
+
+4. UPGRADES. Any commits to the source code versoning system where the SOFTWARE LIBRARY is mantained or
+	any derived brances requires that you be licenced to use it. Any upcoming versions of the SOFTWARE 
+	LIBRARY replaces and/or supplements the SOFTWARE LIBRARY that formed the basis for your eligibility 
+	for the upgrade, and together constitute a single SOFTWARE LIBRARY. You may use the resulting upgraded 
+	SOFTWARE LIBRARY only in accordance with all the terms of this SLA.
+
+5. NO WARRANTIES. AFFLE INDIA LIMITED EXPRESSLY DISCLAIMS ANY WARRANTY FOR THE SOFTWARE LIBRARY. THE LIBRARY
+	AND ANY RELATED DOCUMENTATION IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, 
+	INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR 
+	PURPOSE, OR NONINFRINGEMENT. THE ENTIRE RISK ARISING OUT OF USE OR PERFORMANCE OF THE PRODUCT REMAINS 
+	WITH YOU.
+
+6. LIMITATION OF LIABILITY. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL AFFLE INDIA
+	LIMITED OR ITS SUPPLIERS BE LIABLE FOR ANY SPECIAL, INCIDENTAL, INDIRECT, OR CONSEQUENTIAL DAMAGES 
+	WHATSOEVER (INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF BUSINESS PROFITS, BUSINESS INTERRUPTION, 
+	LOSS OF BUSINESS INFORMATION, ANY OTHER PECUNIARY LOSS, ATTORNEY FEES AND COURT COSTS) ARISING OUT OF THE 
+	USE OF OR INABILITY TO USE THE SOFTWARE LIBRARY OR THE PROVISION OF OR FAILURE TO PROVIDE SUPPORT 
+	SERVICES, EVEN IF AFFLE INDIA LIMITED HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.

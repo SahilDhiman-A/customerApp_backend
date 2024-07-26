@@ -1,0 +1,135 @@
+definitions:
+  securitySchemes:
+    tokenauth:
+      type: basic
+      description: bearer auth
+      name: Authorization
+      in: header
+    demouser:
+      type: basic
+
+  UserLoginInfo:
+    type: object
+    properties:
+      email:
+        type: string
+      password:
+        type: string
+      user_type:
+        type: string
+
+  NewSegment:
+    type: object
+    properties:
+      name:
+        type: string
+
+  UpdateSegment:
+    type: object
+    properties:
+      name:
+        type: string
+      id:
+        type: string
+  NewCategory:
+    type: object
+    properties:
+      name:
+        type: string
+      segment_id:
+        type: string
+
+  UpdateCategory:
+    type: object
+    properties:
+      name:
+        type: string
+      id:
+        type: string
+  
+  NewFAQ:
+    type: object
+    properties:
+      question:
+        type: string
+      answer:
+        type: string
+      category_id:
+        type: string
+
+  ThumbsDown:
+    type: object
+    properties:
+      can_id:
+        type: string
+      faq_id:
+        type: string
+      reason:
+        type: string
+
+  UpdateFAQ:
+    type: object
+    properties:
+      question:
+        type: string
+      answer:
+        type: string
+      id:
+        type: string
+
+  ActivateDeactivate:
+    type: object
+    properties:
+      is_active:
+        type: boolean
+      id:
+        type: string
+        
+  ResetPassword:
+    type: object
+    properties:
+      old_password:
+        type: string
+      new_password:
+        type: string
+
+  DynamicNotification:
+    type: object
+    properties:
+      can_id:
+        type: string
+      image_url:
+        type: string
+      pdf_url:
+        type: string
+      device_tokens:
+        type: array
+        items:
+          type: string
+      notification_info:
+        type: object
+        properties:
+          title:
+            type: string
+          sort_description:
+            type: string
+          detailed_description:
+            type: string
+          type:
+            type: string      
+
+  Response:
+    type: object
+    properties:
+      user_name:
+        type: string
+      message:
+        type: string
+      is_deleted:
+        type: string
+      is_active:
+        type: string
+      created_at:
+        type: string
+      updated_at:
+        type: string

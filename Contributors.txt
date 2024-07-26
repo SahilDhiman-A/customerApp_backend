@@ -1,0 +1,19 @@
+Notices
+-------
+
+Contributor confirms that any notices required will be included in any
+Committed Code.
+
+List of Contributors
+====================
+
+The below-signed are contributors to a code repository that is part of the
+project named "Base Node Startup".  Each below-signed contributor has read,
+understand and agrees to the terms above in the section within this document
+entitled "Base Node Startup" as of the date beside his or
+her name.
+
+Contributors
+------------
+
+-#1 Gaurav Choudhary

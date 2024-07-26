@@ -1,0 +1,31 @@
+{
+  "port": 3001,
+  "hostAddress": "http://localhost:3001/",
+  "web": "https://spectra.affleprojects.com/",
+  "databaseHost": "localhost",
+  "databasePort": "27017",
+  "databaseUser": "root",
+  "databasePassword": "appstudioz",
+  "databaseName": "spectra",
+  "jwtsecret": "ilovescotchscotchyscotchscotch",
+  "jwtOptions": {
+    "expiresIn": "1h"
+  },
+  "swaggerDefinition": {
+    "info": {
+      "title": "Spectra First",
+      "version": "1.0",
+      "description": "Spectra-First API Docs"
+    },
+    "basePath": "/v0",
+    "securityDefinitions": {
+      "tokenauth": {
+        "type": "apiKey",
+        "name": "Authorization",
+        "in": "header"
+      }
+    }
+  },
+  "fcm_serverkey":"AAAA3t33J3s:APA91bG-6gnDF2ceRy_Bz_jH9oizzKeT5BTtrV2F0JgjqcPDtl3uKaKtzdlIDRhpzIQPSpRQ80zvAQYuyU7RErmygsPT05jBTZhBLwyuRyoo3CYlCkOX9dldZcq0vwhIZ3xou8EisPKJ",
+  "fcm_serverkey_andRoid":"AAAA3RAKUnU:APA91bEr6iptrOxuIy8NJ5AswZFZ95qJaztG4WDA2RPrDZH0L5Xs0DTCJ609OM7LtR_6JxXF_2D-3e9agD39nP-Z7NHQ6ML3iPLpgwMDU9BZGzIHsxkBB6_upFXPm9pPNvo0voDQAwXw"
+}
